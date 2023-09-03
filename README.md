@@ -4,10 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbattalwar-17&label=Profile%20views&color=0e75b6&style=flat" alt="harshbattalwar-17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshbattalwar-17" alt="harshbattalwar-17" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/HarshBattalwar-17/PortFolio](https://github.com/HarshBattalwar-17/PortFolio)
 
 - 📫 How to reach me **harshbattalwar2003@gmail.com**
