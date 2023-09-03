@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Harsh Battalwar😎</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://www.canva.com/design/DAFtXqBARwA/XmQHfT4YMHCyr6oENwBC2g/edit?utm_content=DAFtXqBARwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbattalwar-17&label=Profile%20views&color=0e75b6&style=flat" alt="harshbattalwar-17" /> </p>
 
