@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 👨‍💻 All of my projects are available at [(https://linktr.ee/harshbattalwar)](https://linktr.ee/harshbattalwar))
+- 👨‍💻 All of my projects are available at [(https://linktr.ee/harshbattalwar)](https://linktr.ee/harshbattalwar)]
 
 - 📫 How to reach me **harshbattalwar2003@gmail.com**
 
