@@ -1,4 +1,4 @@
-![logo](https://github.com/HarshBattalwar-17/HarshBattalwar-17/blob/main/Game%20On.jpg)
+
 <h1 align="center">Hi 👋, I'm Harsh Battalwar😎</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
